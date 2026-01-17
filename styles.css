@@ -74,10 +74,10 @@ ul{
 .blue-btn{
     background-color: #3882F6;
     border: none;
-    padding: 4px 14px;
+    padding: 6px 0px;
     color: #E5E7EB;
     border-radius: 6px;
-    width:80px;
+    width:100px;
 }
 
 .info{
@@ -137,3 +137,30 @@ ul{
     text-align: right;
 }
 
+.cta{
+    width:600px;
+    background-color: #3882F6;
+    display: flex;
+    margin: 50px auto;
+    color: #E5E7EB;
+    padding: 20px 50px;
+    border-radius: 6px;
+    justify-content: space-between;
+}
+
+.cta-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cta-btn{
+    border: 2px solid #E5E7EB;
+    
+}
+
+.footer{
+    background-color: #1F2937;
+    padding: 20px 40px;
+    color: #E5E7EB;
+    text-align: center;
+}
